@@ -1,0 +1,9 @@
+{
+	"ip":"Nopsal.aternos.me",
+	"port": "40407",
+	"name": "Rafa teramat ganteng",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
